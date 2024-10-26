@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Valid Scenario" parallel="methods" thread-count="4">
+    <test verbose="2" preserve-order="true" name="E:/private/ITI's/introduction to SW engineering/Re-TestIMDb">
+        <classes>
+
+            <class name="ModifiedSearchTests.ModifiedSearchTests">
+            </class>
+            <class name="ModifiedMoviePageTests.ModifiedMoviePageTests">
+
+            </class>
+
+
+        </classes>
+    </test>
+</suite>
